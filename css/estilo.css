@@ -6,7 +6,7 @@
 }
 
 body{
-  background:linear-gradient(#ddcbfd,rgba(255,255,255,.52)), url(../images/bg1.jpg);
+  background:linear-gradient(#ddcbfd,rgba(192, 67, 67, 0.52)), url(../images/bg1.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
